@@ -1,0 +1,9 @@
+Chapter 15, Generating Data, p.321(354 pdf)
+
+Data Visualization
+# Downloaded Matplotlib & Visual Code Community 2019.
+# Packages: Pygal
+
+Description of activity: 
+Use matplotlib to make simple plots, such as line graphs and scatter plots. After which, we’ll create a more interesting data set based on the concept of a random walk—a visualization generated from a series of random decisions.
+
